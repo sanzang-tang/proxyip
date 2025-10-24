@@ -21,7 +21,9 @@ https://github.com/mountain787/Lunch-Bag-ip/tree/main
 tw.william.ccwu.cc
 kr.william.ccwu.cc
 proxy.xxxxxxxx.tk:50001#kr
+tw.ttzxw.cf
 36.50.90.241:35951#hk
+
 
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 US: 
@@ -392,6 +394,7 @@ AU:
 212.113.100.65:443#DE
 195.135.252.244:443#LT
 91.197.3.157:443#LT
+
 
 
 
