@@ -1,3 +1,86 @@
+
+2025-10-24 12:00:25
+3.112.68.100	443	true	NRT	Asia Pacific	Tokyo	107 ms	22486 kB/s
+18.183.89.240	443	true	NRT	Asia Pacific	Tokyo	69 ms	20835 kB/s
+3.112.123.104	443	true	NRT	Asia Pacific	Tokyo	105 ms	19903 kB/s
+18.136.206.105	443	true	SIN	Asia Pacific	Singapore	71 ms	19734 kB/s
+47.243.225.157	443	true	HKG	Asia Pacific	Hong Kong	77 ms	19660 kB/s
+47.243.57.0	443	true	HKG	Asia Pacific	Hong Kong	80 ms	18335 kB/s
+18.143.119.103	443	true	SIN	Asia Pacific	Singapore	73 ms	15969 kB/s
+43.207.145.170	443	true	NRT	Asia Pacific	Tokyo	91 ms	14743 kB/s
+43.207.176.121	443	true	NRT	Asia Pacific	Tokyo	109 ms	14692 kB/s
+47.245.114.204	443	true	SIN	Asia Pacific	Singapore	77 ms	13411 kB/s
+47.245.84.86	443	true	SIN	Asia Pacific	Singapore	81 ms	13214 kB/s
+47.245.113.24	443	true	SIN	Asia Pacific	Singapore	83 ms	12268 kB/s
+47.243.77.52	443	true	HKG	Asia Pacific	Hong Kong	70 ms	6995 kB/s
+47.243.189.115	443	true	HKG	Asia Pacific	Hong Kong	85 ms	3901 kB/s
+18.183.158.211	443	true	NRT	Asia Pacific	Tokyo	76 ms	2011 kB/s
+43.207.74.81	443	true	NRT	Asia Pacific	Tokyo	128 ms	1974 kB/s
+47.245.108.65	443	true	SIN	Asia Pacific	Singapore	85 ms	1968 kB/s
+18.143.66.189	443	true	SIN	Asia Pacific	Singapore	83 ms	1 kB/s
+tw.william.ccwu.cc
+kr.william.ccwu.cc
+proxy.xxxxxxxx.tk:50001#kr
+36.50.90.241:35951#hk
+
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+US: 
+192.9.139.160
+192.18.130.65
+152.70.119.70
+158.101.23.175
+129.153.203.62
+192.9.250.241     10739 kB/s
+152.70.155.147     13626 kB/s
+
+
+DE
+130.61.124.127     7164 kB/s
+138.3.240.63     7342 kB/s
+
+
+KR: 
+132.226.168.96
+8.220.218.105     28533 kB/s
+132.145.84.43     7650 kB/s
+
+
+SG: 
+47.74.157.194     33494 kB/s
+
+
+HK: 
+8.220.218.105
+47.242.11.244
+8.210.48.192
+
+
+JP: 
+152.69.195.36
+141.147.185.63
+
+
+AU: 
+192.9.177.204
+
+47.57.13.107:443#HK 官方优选 30ms
+13.250.131.37:443#SG 反代优选 61ms
+184.169.181.217:443#US 反代优选 163ms
+64.181.240.173:443#US 反代优选 165ms
+146.235.211.56:443#US 反代优选 169ms
+45.76.198.248:443#JP 反代优选 171ms
+91.149.239.198:443#US 反代优选 173ms
+213.226.68.24:443#DE 反代优选 178ms
+206.223.84.247:443#US 反代优选 178ms
+149.248.7.208:443#US 反代优选 179ms
+156.154.245.83:443#JP 官方优选 180ms
+64.110.101.125:443#JP 反代优选 182ms
+91.149.239.206:443#US 反代优选 182ms
+185.94.164.107:443#NL 反代优选 185ms
+5.144.182.188:443#GB 反代优选 193ms
+66.85.139.204:443#US 反代优选 194ms
+
+
 217.60.248.66:443#HK
 217.60.38.191:2053#HK
 217.60.38.191:8443#HK
@@ -309,5 +392,6 @@
 212.113.100.65:443#DE
 195.135.252.244:443#LT
 91.197.3.157:443#LT
+
 
 
