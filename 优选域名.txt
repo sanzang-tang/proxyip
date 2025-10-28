@@ -31,8 +31,8 @@ hypixel.net#US
 mfa.gov.ua#乌克兰
 ping.pe#DE
 ip.skk.moe#DE
-cf-ip.cdtools.click
-cloudflare-ip.mofashi.ltd
+cf-ip.cdtools.click#(MD)
+cloudflare-ip.mofashi.ltd#mofashi(US)
 cloudflare.net#CF
 sso.cloudflare.dev#CF
 blog.cloudflare.com#CF
@@ -43,6 +43,7 @@ workers.cloudflare.com#CF
 h3.speed.cloudflare.com#CF
 developers.cloudflare.com#CF
 cloudflaredoc.ubitools.com#CF
+
 
 
 
