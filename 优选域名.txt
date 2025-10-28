@@ -31,25 +31,19 @@ hypixel.net#US
 mfa.gov.ua#乌克兰
 ping.pe#DE
 ip.skk.moe#DE
-cloudflare.net#cloudflare官方
-pages.cloudflare.com#cloudflare官方
-workers.cloudflare.com#cloudflare官方
-sso.cloudflare.dev#cloudflare官方
-121.167.15.173:50000#KR-首尔
-14.35.29.177:15211#KR-首尔
-121.165.101.69:19413#KR-首尔
-14.35.29.177:15903#KR-首尔
-125.130.15.106:20280#KR-首尔
-106.244.201.248:50000#KR-首尔
-114.34.202.224:10004#TW
-114.32.9.249:16443#TW
-60.249.114.181:10244#TW
-122.117.174.80#TW
-141.11.86.226:8443#TW
-60.248.139.106:12589#台湾
-141.101.114.6#HKG-移动
-198.41.208.112#HK-移动
-198.41.208.218#HKG-移动
+cf-ip.cdtools.click
+cloudflare-ip.mofashi.ltd
+cloudflare.net#CF
+sso.cloudflare.dev#CF
+blog.cloudflare.com#CF
+radar.cloudflare.com#CF
+speed.cloudflare.com#CF
+pages.cloudflare.com#CF
+workers.cloudflare.com#CF
+h3.speed.cloudflare.com#CF
+developers.cloudflare.com#CF
+cloudflaredoc.ubitools.com#CF
+
 
 
 
