@@ -21,7 +21,9 @@ https://github.com/mountain787/Lunch-Bag-ip/tree/main
 tw.william.ccwu.cc
 kr.william.ccwu.cc
 proxy.xxxxxxxx.tk:50001#kr
+tp50000.kr.proxyip.fgfw.eu.org:50000
 tw.ttzxw.cf
+tw.soso.edu.kg
 36.50.90.241:35951#hk
 
 
@@ -394,6 +396,7 @@ AU:
 212.113.100.65:443#DE
 195.135.252.244:443#LT
 91.197.3.157:443#LT
+
 
 
 
