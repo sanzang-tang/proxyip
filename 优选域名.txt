@@ -7,7 +7,7 @@ eur.877774.xyz#欧洲优选
 na.877774.xyz#美洲优选
 cf.090227.xyz#CM
 linear.app#SG
-www.shopify.com#SG
+www.shopify.com#shopify
 cloudflare-dl.byoip.top#SG
 cfsaas.080112.xyz#SG
 staticdelivery.nexusmods.com#SG
@@ -23,7 +23,6 @@ cdn.204910.best#JP
 yongboss.cloudflare.byoip.top#JP
 4-6-this-is-the-preferred-free-option.if-you-paid.youve-been-scammed.xn--4oqr7c4y9alz8a26c.xn--ykqqh3ob280k4sui1xhg6a0ti2u7a.cf.cnae.top#JP
 this-is-the-preferred-free-option.if-you-paid.youve-been-scammed.xn--4oqr7c4y9alz8a26c.xn--ykqqh3ob280k4sui1xhg6a0ti2u7a.cloudflare.byoip.top#JP
-www.visa.com.sg#US
 www.ntu.edu.sg#US
 www.speedtest.net#US
 videodelivery.net#US
@@ -33,16 +32,26 @@ ping.pe#DE
 ip.skk.moe#DE
 cf-ip.cdtools.click#(MD)
 cloudflare-ip.mofashi.ltd#mofashi(US)
-cloudflare.net#CF
-sso.cloudflare.dev#CF
-blog.cloudflare.com#CF
-radar.cloudflare.com#CF
-speed.cloudflare.com#CF
-pages.cloudflare.com#CF
-workers.cloudflare.com#CF
-h3.speed.cloudflare.com#CF
-developers.cloudflare.com#CF
-cloudflaredoc.ubitools.com#CF
+www.visa.cn#VISA中国
+www.visa.co.jp#VISA日本
+www.visa.com#VISA全球
+www.visa.com.au#VISA澳大利亚
+www.visa.com.br#VISA巴西
+www.visa.com.hk#VISA香港
+www.visa.com.sg#VISA新加坡
+www.visa.com.tw#VISA台湾
+www.visa.com.ua#VISA乌克兰
+www.visakorea.com#VISA韩国
+cloudflare.net#cloudflare(CF)
+sso.cloudflare.dev#cloudflare(CF)
+blog.cloudflare.com#cloudflare(CF)
+radar.cloudflare.com#cloudflare(CF)
+pages.cloudflare.com#cloudflare(CF)
+workers.cloudflare.com#cloudflare(CF)
+h3.speed.cloudflare.com#cloudflare(CF)
+developers.cloudflare.com#cloudflare(CF)
+cloudflaredoc.ubitools.com#cloudflare(CF)
+
 
 
 
