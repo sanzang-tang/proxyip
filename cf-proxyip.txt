@@ -18,12 +18,13 @@ https://github.com/mountain787/Lunch-Bag-ip/tree/main
 43.207.74.81	443	true	NRT	Asia Pacific	Tokyo	128 ms	1974 kB/s
 47.245.108.65	443	true	SIN	Asia Pacific	Singapore	85 ms	1968 kB/s
 18.143.66.189	443	true	SIN	Asia Pacific	Singapore	83 ms	1 kB/s
+tw.ttzxw.cf
+tw.soso.edu.kg
 tw.william.ccwu.cc
 kr.william.ccwu.cc
 proxy.xxxxxxxx.tk:50001#kr
 tp50000.kr.proxyip.fgfw.eu.org:50000
-tw.ttzxw.cf
-tw.soso.edu.kg
+
 36.50.90.241:35951#hk
 
 
@@ -396,6 +397,7 @@ AU:
 212.113.100.65:443#DE
 195.135.252.244:443#LT
 91.197.3.157:443#LT
+
 
 
 
