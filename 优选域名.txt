@@ -5,7 +5,15 @@ cu.877774.xyz#中国联通
 asia.877774.xyz#亚洲优选
 eur.877774.xyz#欧洲优选
 na.877774.xyz#美洲优选
-cf.090227.xyz#CM
+mfa.gov.ua#SG
+saas.sin.fan#HK
+store.ubi.com#JP
+cf.130519.xyz#KR
+cf.008500.xyz#HK
+cf.090227.xyz#SG
+cdns.doon.eu.org#JP
+sub.danfeng.eu.org#TW
+cf.zhetengsha.eu.org#HK
 linear.app#SG
 www.shopify.com#shopify
 cloudflare-dl.byoip.top#SG
@@ -13,9 +21,7 @@ cfsaas.080112.xyz#SG
 staticdelivery.nexusmods.com#SG
 openai.com#openai
 nrtcfdns.zone.id#JP
-saas.sin.fan#JP
 ali.nonull.pp.ua#JP
-cf.130519.xyz#JP
 hj.xmm1993.top#JP
 777.ai7777777.xyz#JP
 nrt.xxxxxxxx.nyc.mn#JP
@@ -27,7 +33,6 @@ www.ntu.edu.sg#US
 www.speedtest.net#US
 videodelivery.net#US
 hypixel.net#US
-mfa.gov.ua#乌克兰
 ping.pe#DE
 ip.skk.moe#DE
 cf-ip.cdtools.click#(MD)
@@ -51,6 +56,7 @@ workers.cloudflare.com#cloudflare(CF)
 h3.speed.cloudflare.com#cloudflare(CF)
 developers.cloudflare.com#cloudflare(CF)
 cloudflaredoc.ubitools.com#cloudflare(CF)
+
 
 
 
