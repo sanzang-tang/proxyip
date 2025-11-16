@@ -53,9 +53,11 @@ blog.cloudflare.com#cloudflare(CF)
 radar.cloudflare.com#cloudflare(CF)
 pages.cloudflare.com#cloudflare(CF)
 workers.cloudflare.com#cloudflare(CF)
+domains.cloudflare.com#cloudflare(CF)
 h3.speed.cloudflare.com#cloudflare(CF)
 developers.cloudflare.com#cloudflare(CF)
 cloudflaredoc.ubitools.com#cloudflare(CF)
+
 
 
 
