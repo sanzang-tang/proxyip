@@ -20,10 +20,16 @@ https://github.com/mountain787/Lunch-Bag-ip/tree/main
 18.143.66.189	443	true	SIN	Asia Pacific	Singapore	83 ms	1 kB/s
 tw.ttzxw.cf
 tw.soso.edu.kg
-tw.william.ccwu.cc
-kr.william.ccwu.cc
-proxy.xxxxxxxx.tk:50001#kr
+tw.william.ccwu.cc   威廉维护
+kr.william.ccwu.cc   威廉维护
+proxy.xxxxxxxx.tk:50001#kr    OTC
 tp50000.kr.proxyip.fgfw.eu.org:50000
+
+180.214.180.226:444台北
+175.98.3.3:12476 台北
+163.15.174.78:12584高雄市教育机构
+175.183.4.54:18200台北
+112.104.108.68:11110台北
 
 36.50.90.241:35951#hk
 
@@ -397,6 +403,7 @@ AU:
 212.113.100.65:443#DE
 195.135.252.244:443#LT
 91.197.3.157:443#LT
+
 
 
 
