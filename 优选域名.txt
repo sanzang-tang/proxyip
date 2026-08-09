@@ -15,9 +15,6 @@ youxuan.cf.090227.xyz#SG(CM三网自适应)
 cf.tencentapp.cn#JP(ktff维护三网自适应)
 cloudflare.19931110.xyz#JP(NB优选单IPv4版)
 cloudflare.22336666.xyz#JP(NB优选单IPv4版)
-cloudflare.byoip.top#JP(NB优选单IPv4版)
-cloudflare.cnae.top#JP(NB优选单IPv4版)
-cf.cnae.top#US(NB优选CloudFlare带IPv6版)
 cloudflare-dualstack.19931110.xyz#US(NB优选IPv6版)
 cloudflare-dualstack.22336666.xyz#US(NB优选IPv6版)
 cloudflare-dualstack.byoip.top#US(NB优选IPv6版)
@@ -27,8 +24,6 @@ www.ntu.edu.sg#US新加坡南洋科技大学
 staticdelivery.nexusmods.com#US静态资源分发
 www.canva.com#US设计工具
 www.indeed.com#US求职搜索
-claude.ai#US(AI聊天机器人)
-www.anthropic.com#US社交平台
 www.britannica.com#US社交平台
 www.appisfree.com#US团队协作
 www.mychoicesoftware.com#CA团队协作
