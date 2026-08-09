@@ -13,9 +13,13 @@ cf.877774.xyz#JP秋名山三网自适应
 saas.sin.fan#JP(MIYU维护三网自适应)
 youxuan.cf.090227.xyz#SG(CM三网自适应)
 cf.tencentapp.cn#JP(ktff维护三网自适应)
+cloudflare.19931110.xyz#JP(NB优选单IPv4版)
+cloudflare.22336666.xyz#JP(NB优选单IPv4版)
 cloudflare.byoip.top#JP(NB优选单IPv4版)
 cloudflare.cnae.top#JP(NB优选单IPv4版)
 cf.cnae.top#US(NB优选CloudFlare带IPv6版)
+cloudflare-dualstack.19931110.xyz#US(NB优选IPv6版)
+cloudflare-dualstack.22336666.xyz#US(NB优选IPv6版)
 cloudflare-dualstack.byoip.top#US(NB优选IPv6版)
 www.shopify.com#SG全球知名电商官方
 store.ubi.com#SG育碧(Ubisoft)官方
